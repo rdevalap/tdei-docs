@@ -2,7 +2,7 @@
 layout: default
 title: example-1
 ---
-
+{{ page.title }}
 # h1 Heading 8-)
 
 ## h2 Heading
