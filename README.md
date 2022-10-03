@@ -1,4 +1,4 @@
-# rd-blog
+# tdei-docs
 
 To add a new markdown file do the following.
 
@@ -13,7 +13,7 @@ title: <title>
 ```
  <li>
           <a
-            href="/rd-blog/<file-name>"
+            href="/tdei-docs/<file-name>"
             class="d-inline-flex align-items-center rounded"
             ><link name></a
           >
@@ -36,14 +36,14 @@ title: <title>
       <ul class="list-unstyled fw-normal pb-1 small">
         <li>
           <a
-            href="/rd-blog/example-1"
+            href="/tdei-docs/example-1"
             class="d-inline-flex align-items-center rounded"
             >Introduction</a
           >
         </li>
         <li>
           <a
-            href="/rd-blog/example-2"
+            href="/tdei-docs/example-2"
             class="d-inline-flex align-items-center rounded"
             >Download</a
           >
