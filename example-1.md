@@ -126,11 +126,10 @@ Right aligned columns
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+[link text](http://google.com)
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+[link with title](http://google.com/ "Link Text")
 
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
@@ -139,11 +138,6 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 Like links, Images also have a footnote style syntax
 
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
 
 ## Plugins
 
